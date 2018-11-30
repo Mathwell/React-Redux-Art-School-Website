@@ -20,6 +20,7 @@ class App extends Component {
             Learn React
           </a>
         </header>
+        My React/Redux App!
       </div>
     );
   }
